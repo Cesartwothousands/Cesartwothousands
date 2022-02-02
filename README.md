@@ -19,11 +19,11 @@ Waiting for me to fill
 
 ## Currently News about *Zihan*
 
-**Jan.22**    The patent *Low Redundancy Atherosclerosis Risk Prediction Method based on Dijkstra's Algorithm* was submitted to **China National Intellectual Property Administration**
+**Jan.2022**    The patent *Low Redundancy Atherosclerosis Risk Prediction Method based on Dijkstra's Algorithm* was submitted to **China National Intellectual Property Administration**
 
-**Dec.21**    *Zihan* got the *Excellent Graduate of Class 2022*, keep going!
+**Dec.2021**    *Zihan* got the *Excellent Graduate of Class 2022*, keep going!
 
-**Dec.21**    Zihan's team win the Second Prize in the **2nd high-value patent nurturing competition of Jiangbei New District**.
+**Dec.2021**    Zihan's team win the Second Prize in the **2nd high-value patent nurturing competition of Jiangbei New District**.
 
 
 <!--
