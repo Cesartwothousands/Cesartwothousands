@@ -21,7 +21,7 @@ Waiting for me to fill
 
 **Dec.2021**    *Zihan* got the *Excellent Graduate of Class 2022*, keep going!
 
-**Dec.2021**    Zihan's team win the Second Prize in the **2nd high-value patent nurturing competition of Jiangbei New District**.
+**Dec.2021**    *Zihan*'s team win the Second Prize in the **2nd high-value patent nurturing competition of Jiangbei New District**.
 
 
 <!--
