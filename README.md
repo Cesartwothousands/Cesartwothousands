@@ -16,7 +16,8 @@ I'm *Zihan* an senior students from NUIST, you can call me Cesar. If you have an
 - **Atherosclerosis Detection** and classification based on machine learning
 
   \[One **first-author** paper was accepted and two patent applications were submitted]
-- **Wearable Tech Device**
+- **Wearable Tech Device**\
+
   Because of China's well-developed logistics industry, I often heard of workers with a huge workload. Workers face the dilemma that they cannot sort cargo and scan QR code simultaneously with their two hands, which reduces their work efficiency and accuracy. I hope to design a wearable device to solve this with my knowledge of microcontroller and recognition algorithm.
 
   \[One **first-inventor** patent was issued]
