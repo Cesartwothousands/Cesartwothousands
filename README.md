@@ -27,7 +27,7 @@ I'm *Zihan* an senior students from NUIST, you can call me Cesar. If you have an
 
 ## Currently News about *Zihan*
 
-**Feb.2021**    With help of my team, our paper ***Prediction of atherosclerosis using machine learning based on operations research* had been accepted by *Mathematical Biosciences and Engineering***.
+**Feb.2021**    With help of my team, our paper ***Prediction of atherosclerosis using machine learning based on operations research*** had been accepted by *Mathematical Biosciences and Engineering*.
 
 **Dec.2021**    *Zihan* got the *Excellent Graduate of Class 2022*, keep going!
 
