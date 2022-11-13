@@ -1,8 +1,16 @@
 # Hello GitHub 👋
 
-I'm *Zihan* an senior students from NUIST, you can call me Cesar. If you have any questions about my work, please feel free to contact me.
+I'm _Zihan_ a first year graduate student in Rutgers University-New Brunswick Computer Science, you can call me _Cesar_. 
+
+I graduate from Changwang School of Honors in Nanjing University of Information Science & Technology(NUIST), I earned Bachelor of Engineering in a joint program with University of Chinese Academy of Sciences, major in Telecommunication Engineering.
+
+If you have any questions about my work, please feel free to contact me.
 
 ## Education📚
+
+- Rutgers, The State University of New Jersey, New Brunswick, United States
+
+  Major in Computer Science
 
 - Nanjing University of Information Science & Technology(NUIST), Nanjing, China
 
@@ -12,27 +20,30 @@ I'm *Zihan* an senior students from NUIST, you can call me Cesar. If you have an
 
 ## Research Experience & Interests🌞
 
-- **Industrial Sound Measurements** based on deep learning
-- **Atherosclerosis Detection** and classification based on machine learning
+- **Industrial Sound Measurements** based on Time-Frequency analysis and artificial neural network
 
-  \[One **first-author** paper was accepted and two patent applications were submitted]
+- **Atherosclerosis Detection** and classification based on data science and machine learning
+
+  \[One **first-author** paper published and two patent applications were submitted]
+  
 - **Wearable Tech Device**
 
   Because of China's well-developed logistics industry, I often heard of workers with a huge workload. Workers face the dilemma that they cannot sort cargo and scan QR code simultaneously with their two hands, which reduces their work efficiency and accuracy. I hope to design a wearable device to solve this with my knowledge of microcontroller and recognition algorithm.
 
-  \[One **first-inventor** patent was issued]
+  \[One **first-inventor** patent issued]
 
 ## 
 ![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesartwothousands&theme=merko)
 
 ## Currently News about *Zihan*
 
-**Feb.2021**    With help of my team, our paper ***Prediction of atherosclerosis using machine learning based on operations research*** had been accepted by *Mathematical Biosciences and Engineering*.
+**Sep.2022**    *Zihan* started his Master of Science in Computer Science in Rutgers-New Brunswick, RU Rah!
 
-**Dec.2021**    *Zihan* got the *Excellent Graduate of Class 2022*, keep going!
+**Jun.2022**    *Zihan* graduated from Changwang and NUIST with *Excellent Graduate of Class 2022*, goodbye NUIST!
+
+**Mar.2022**    With help of my team, our paper ***Prediction of atherosclerosis using machine learning based on operations research*** had been published by *Mathematical Biosciences and Engineering*.
 
 **Dec.2021**    *Zihan*'s team win the Second Prize in the **2nd high-value patent nurturing competition of Jiangbei New District**.
-
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesartwothousands&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
