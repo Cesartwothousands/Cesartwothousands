@@ -4,7 +4,7 @@ I'm _Zihan_ a first year graduate student in Rutgers University-New Brunswick Co
 
 I graduate from Changwang School of Honors in Nanjing University of Information Science & Technology(NUIST), I earned Bachelor of Engineering in a joint program with University of Chinese Academy of Sciences, major in Telecommunication Engineering.
 
-If you have any questions about my work, please feel free to contact me.
+If you have any questions about my work, please feel free to contact me(cesarchen616@outlook.com).
 
 ## Education📚
 
