@@ -4,7 +4,9 @@ I'm _Zihan_ a first year graduate student in Rutgers University-New Brunswick Co
 
 I graduate from Changwang School of Honors in Nanjing University of Information Science & Technology(NUIST), I earned Bachelor of Engineering in a joint program with University of Chinese Academy of Sciences, major in Telecommunication Engineering.
 
-If you have any questions about my work, please feel free to contact me(cesarchen616@outlook.com).
+I'm looking for 2023 Summer Internship of Computer Science and Data Science. If you have any questions about my work or potential cooperation, please feel free to contact me(cesarchen616@outlook.com).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesartwothousands&layout=compact&hide=VHDL,Coq)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Education📚
 
@@ -33,7 +35,7 @@ If you have any questions about my work, please feel free to contact me(cesarche
   \[One **first-inventor** patent issued]
 
 ## 
-![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesartwothousands&theme=merko)
+![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesartwothousands&theme=merko) 
 
 ## Currently News about *Zihan*
 
