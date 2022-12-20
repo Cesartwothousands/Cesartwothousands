@@ -34,9 +34,6 @@ I'm looking for 2023 Summer Internship of Computer Science and Data Science. If 
 
   \[One **first-inventor** patent issued]
 
-## 
-![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesartwothousands&theme=merko) 
-
 ## Currently News about *Zihan*
 
 **Sep.2022**    *Zihan* started his Master of Science in Computer Science in Rutgers-New Brunswick, RU Rah!
@@ -46,6 +43,9 @@ I'm looking for 2023 Summer Internship of Computer Science and Data Science. If 
 **Mar.2022**    With help of my team, our paper ***Prediction of atherosclerosis using machine learning based on operations research*** had been published by *Mathematical Biosciences and Engineering*.
 
 **Dec.2021**    *Zihan*'s team win the Second Prize in the **2nd high-value patent nurturing competition of Jiangbei New District**.
+
+## 
+![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesartwothousands&theme=merko) 
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesartwothousands&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
