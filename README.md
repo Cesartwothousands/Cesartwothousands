@@ -45,7 +45,7 @@ I'm looking for 2023 Summer Internship of Computer Science and Data Science. If 
 **Dec.2021**    *Zihan*'s team win the Second Prize in the **2nd high-value patent nurturing competition of Jiangbei New District**.
 
 ## 
-![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesartwothousands&theme=merko) 
+![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cesartwothousands&count_private=true&show_icons=true&theme=merko) 
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesartwothousands&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
