@@ -8,7 +8,7 @@ I graduate from Changwang School of Honors in Nanjing University of Information 
 
 I'm looking for 2023 Summer Internship of Computer Science and Data Science. If you have any questions about my work or potential cooperation, please feel free to contact me(cesarchen616@outlook.com).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesartwothousands&layout=compact&count_private=true&langs_count=7&hide=&exclude_repo=&card_width=400&custom_title=Most%20Used%20Languages%20in%20Cesar's%20Repository)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesartwothousands&layout=compact&count_private=true&langs_count=7&hide=&exclude_repo=&card_width=400&custom_title=Most%20Used%20Languages%20in%20Cesar's%20Repository)
 
 ## Education📚
 
@@ -48,7 +48,7 @@ I'm looking for 2023 Summer Internship of Computer Science and Data Science. If 
 
 ## 
 
-[![Cesar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cesartwothousands&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Cesar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cesartwothousands&theme=vue)
 
 
 <!--
