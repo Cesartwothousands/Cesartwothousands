@@ -6,9 +6,9 @@ I'm _Zihan_ a first year graduate student in Rutgers University-New Brunswick Co
 
 I graduate from Changwang School of Honors in Nanjing University of Information Science & Technology(NUIST), I earned Bachelor of Engineering in a joint program with University of Chinese Academy of Sciences, major in Telecommunication Engineering.
 
-I'm looking for 2023 Summer Internship of Computer Science and Data Science. If you have any questions about my work or potential cooperation, please feel free to contact me(cesarchen616@outlook.com).
+I'm open to full-time job in Computer Science and Data Science after my summer internship as a R&D engineer in AI for Health. If you have any questions about my work or potential cooperation, please feel free to contact me(cesarchen616@outlook.com).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesartwothousands&layout=compact&count_private=true&langs_count=7&hide=&exclude_repo=&card_width=400&custom_title=Most%20Used%20Languages%20in%20Cesar's%20Repository)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesartwothousands&layout=compact&count_private=true&langs_count=5&hide=&exclude_repo=&card_width=400&custom_title=Most%20Used%20Languages%20in%20Cesar's%20Repository)
 
 ## Education📚
 
